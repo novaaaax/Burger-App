@@ -9,7 +9,7 @@ This application allows users to save burgers they'd like to eat and then "DEVOU
 * Tests
 * GitHub
 ## How To Install: 
-All you need is a web browser!
+All you need is a web browser! Deployed Link: https://evening-eyrie-37903.herokuapp.com/
 ## Usage:
 Simply add the burger you'd like to eat into the text box and click the "Add Burger" button. Then once you're ready to eat it, click the "Devour" button. 
 ![img](example.jpeg)
