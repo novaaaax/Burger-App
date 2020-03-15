@@ -14,7 +14,7 @@ All you need is a web browser!
 Simply add the burger you'd like to eat into the text box and click the "Add Burger" button. Then once you're ready to eat it, click the "Devour" button. 
 ![img](example.jpeg)
 ## Technologies Used/Bagdes: 
-![img](https://img.shields.io/badge/JavaScript-used-red) ![img](https://img.shields.io/badge/MySql-used-red) ![img](https://img.shields.io/badge/JawsDB-used-red) ![img](https://img.shields.io/badge/Handlebars-used-red) ![img](https://img.shields.io/badge/CSS-used-red) ![img](https://img.shields.io/badge/HTML-used-red)
+![img](https://img.shields.io/badge/JavaScript-used-red) ![img](https://img.shields.io/badge/MySQL-used-red) ![img](https://img.shields.io/badge/JawsDB-used-red) ![img](https://img.shields.io/badge/Handlebars-used-red) ![img](https://img.shields.io/badge/CSS-used-red) ![img](https://img.shields.io/badge/HTML-used-red)
 ## Lisence:  
 MIT
 ## Contributors:
