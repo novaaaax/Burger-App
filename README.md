@@ -13,7 +13,7 @@ All you need is a web browser!
 ## Usage:
 People who wanna eat some burgers.
 ## Technologies Used/Bagdes: 
-![img](https://img.shields.io/badge/JavaScript-used-red)
+![img](https://img.shields.io/badge/JavaScript-used-red) ![img](https://img.shields.io/badge/MySql-used-red) ![img](https://img.shields.io/badge/JawsDB-used-red) ![img](https://img.shields.io/badge/Handlebars-used-red) ![img](https://img.shields.io/badge/CSS-used-red) ![img](https://img.shields.io/badge/HTML-used-red)
 ## Lisence:  
 MIT
 ## Contributors:
