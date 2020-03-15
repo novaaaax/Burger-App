@@ -1,0 +1,43 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: lightblue;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-left: 15px;
+}
+
+.submit {
+  margin-left: 15px;
+}
+
+body {
+  background-color: orange;
+}
+
+label {
+  margin-left: 15px;
+}
+
+button:hover {
+  color: red;
+}
