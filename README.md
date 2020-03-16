@@ -12,7 +12,7 @@ This application allows users to save burgers they'd like to eat and then "DEVOU
 All you need is a web browser! Deployed Link: https://evening-eyrie-37903.herokuapp.com/
 ## Usage:
 Simply add the burger you'd like to eat into the text box and click the "Add Burger" button. Then once you're ready to eat it, click the "Devour" button. 
-![img](example.jpeg)
+![img](updatedexample.jpeg)
 ## Technologies Used/Bagdes: 
 ![img](https://img.shields.io/badge/JavaScript-used-red) ![img](https://img.shields.io/badge/MySQL-used-red) ![img](https://img.shields.io/badge/JawsDB-used-red) ![img](https://img.shields.io/badge/Handlebars-used-red) ![img](https://img.shields.io/badge/CSS-used-red) ![img](https://img.shields.io/badge/HTML-used-red)
 ## Lisence:  
