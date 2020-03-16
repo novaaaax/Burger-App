@@ -1,7 +1,11 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: lightblue;
+}
+
+ul {
+  background-color: lightblue;
+  border-radius: 25px;
 }
 
 .label {

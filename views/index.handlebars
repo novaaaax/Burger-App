@@ -1,5 +1,5 @@
 <h2>Avaible Burgers <i class="fas fa-utensils"></i></h2>
-<ul>
+<ul class="container">
   {{#each burgers}}
     {{#unless devoured}}
       {{> burgers/burger-block devoured=true}}
@@ -9,7 +9,7 @@
 
 
 <h2>Devoured Burgers!</h2>
-<ul>
+<ul class="container">
   {{#each burgers}}
     {{#if devoured}}
       {{> burgers/burger-block devoured=false}}
